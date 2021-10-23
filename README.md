@@ -1,2 +1,2 @@
-# Hose-Deer-Cow
+# Horse-Deer-Cow
 JP-Hacks
