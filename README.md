@@ -52,11 +52,11 @@
 
 ## 使い方
 
-zipファイルをダウンロードして解凍し、フォルダ内の**main.exe**を実行するだけで簡単に利用できます。
+以下のリンクからzipファイルをダウンロードして解凍し、フォルダ内の**main.exe**を実行するだけで簡単に利用できます。
 
 （ダウンロードには数分かかる場合があります）
 
-https://drive.google.com/file/d/1mXzJDih8RmcXPPrMo4xGNKKEUC97pdAs/view?usp=sharing
+https://www.dropbox.com/s/olor5fjmqw04mxz/main.zip?dl=0
 
 <div align="center">
 <img width="" alt="menu" src="https://user-images.githubusercontent.com/60843722/139415612-698816da-6fa8-41b5-b42e-f9fdb064296d.png">
