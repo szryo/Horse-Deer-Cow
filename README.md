@@ -1,8 +1,10 @@
 # Blicky【手・顔リアルタイム検出型バーチャルマウス】
 
-<img width="400" alt="Blicky" src="https://user-images.githubusercontent.com/60843722/139403662-91edb16a-1bdb-40b2-85fe-38b4e578f6fa.png">
+<img width="1000" alt="Blicky" src="https://user-images.githubusercontent.com/60843722/139441696-b396d9d3-5c5f-4b04-9561-63c639787e6c.png">
+
 
 # 製品概要
+
 ## 背景
 新型コロナウイルスの感染拡大防止対策として、日常生活のあらゆる場面で"**非接触化**"が注目されました。
 
